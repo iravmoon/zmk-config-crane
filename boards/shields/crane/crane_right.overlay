@@ -21,4 +21,4 @@
 &default_transform {
     col-offset = <6>;
     row-offset = <4>;
-}
+};
