@@ -1,3 +1,4 @@
+#include "crane.dtsi"
 
 // Label of the kscan node in the dtsi
 &kscan0 {
