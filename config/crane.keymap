@@ -22,7 +22,14 @@
 };
 
 / {
-    combos { compatible = "zmk,combos"; };
+    combos {
+        compatible = "zmk,combos";
+
+        Enter {
+            bindings = <&none>;
+            key-positions = <17 18 19>;
+        };
+    };
 
     macros {
         gif: gif {
