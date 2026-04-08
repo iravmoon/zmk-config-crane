@@ -76,10 +76,10 @@
             // ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
             bindings = <
-        &kp LA(LC(LG(Q)))  &trans                        &kp LG(LA(LC(I)))      &trans                         &kp LA(LC(LG(P)))    &kp RG(UP_ARROW)    &kp RA(LEFT)      &kp UP_ARROW       &kp RA(RIGHT)  &kp PAGE_UP
-&trans  &trans             &kp LA(LC(LG(J)))             &kp LA(LC(LG(K)))      &kp LA(LC(LG(L)))              &trans               &kp RG(DOWN_ARROW)  &kp LEFT          &kp DOWN           &kp RIGHT      &kp PAGE_DOWN         &trans
-&trans  &kp LA(LC(LG(Z)))  &kp LA(LC(LG(LEFT_BRACKET)))  &kp LA(LC(LG(ENTER)))  &kp LA(LG(LC(RIGHT_BRACKET)))  &kp LA(LC(LG(M)))    &trans              &kp RG(LEFT)      &kp F12            &kp RG(RIGHT)  &kp RG(LEFT_BRACKET)  &kp RG(RIGHT_BRACKET)
-        &trans             &kp LG(GRAVE)                 &trans                 &trans                         &trans               &trans              &kp RA(RG(LEFT))  &kp RG(RA(RIGHT))  &to 5          &trans
+        &kp LA(LC(LG(Q)))  &trans                        &kp LG(LA(LC(I)))      &trans                         &kp LA(LC(LG(P)))    &kp RG(UP_ARROW)    &kp RA(LEFT)  &kp UP_ARROW  &kp RA(RIGHT)     &kp PAGE_UP
+&trans  &trans             &kp LA(LC(LG(J)))             &kp LA(LC(LG(K)))      &kp LA(LC(LG(L)))              &trans               &kp RG(DOWN_ARROW)  &kp LEFT      &kp DOWN      &kp RIGHT         &kp PAGE_DOWN         &trans
+&trans  &kp LA(LC(LG(Z)))  &kp LA(LC(LG(LEFT_BRACKET)))  &kp LA(LC(LG(ENTER)))  &kp LA(LG(LC(RIGHT_BRACKET)))  &kp LA(LC(LG(M)))    &trans              &kp RG(LEFT)  &kp F12       &kp RG(RIGHT)     &kp RG(LEFT_BRACKET)  &kp RG(RIGHT_BRACKET)
+        &trans             &kp LG(GRAVE)                 &trans                 &trans                         &trans               &trans              &trans        &trans        &kp LA(LG(LEFT))  &kp LA(LG(RIGHT))
             >;
         };
 
